@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TaxCalculator.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "a"
+    }
+  }
+}

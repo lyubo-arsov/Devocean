@@ -1,0 +1,13 @@
+{
+  "AppSettings": {
+    "SocialContributions": {
+      "MinApplyAmount": 1000,
+      "MaxApplyAmount": 3000,
+      "Percent": 15
+    },
+    "IncomeTax": {
+      "MinApplyAmount": 1000,
+      "Percent": 10
+    }
+  }
+}
