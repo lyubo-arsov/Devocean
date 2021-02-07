@@ -19,8 +19,6 @@ Example 2 : Irina has a salary of 3400 IDR. She owns income tax : 10% out of 240
 
 IMPLEMENTATION NOTES:
 
-Strategy pattern has been implemented for this task. There are other ways to design the solution, but in my opinion this is the simplest one 
-that covers the requirements and can be extended easily.
-To add a new tax, just create new class which inherits from ITaxRule and pass it to the calculator's constructor. The calculator will not 
-change when new taxes are added.
+Strategy pattern has been implemented for this task. There are other ways to design the solution, but in my opinion this is the simplest one that covers the requirements and can be extended easily.
+To add a new tax, just create new class which inherits from ITaxRule and pass it to the calculator's constructor. The calculator will not change when new taxes are added.
 Using reflection the tax rules could be loaded dynamically from assembly or/and from a configuration file.
